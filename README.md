@@ -1,0 +1,2 @@
+# Towers-of-Hanoi-Algorithm
+First of all, before the solution, let me explain what the Tower of Hanoi problem is: it is a game whose purpose is to move a set of disks in the same order from one place to another where the movement is through only three columns.  Only one disk moves at a time. The disk can only be moved if it is the same as the top disk in the column.  Cannot put a large disk on a small disk. 
